@@ -1,5 +1,5 @@
 #msg-box5-1 .mbr-header__text {
-  color: #efefef;
+  color: #4c6972;
 }
 #msg-box5-1 .mbr-header__subtext {
   color: #ffffff;
@@ -36,4 +36,24 @@
 }
 #form1-a .mbr-header__text {
   color: #4c6972;
+}
+#dropdown-menu-2btn-p .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-p .nav .link,
+#dropdown-menu-2btn-p .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-p .navbar,
+#dropdown-menu-2btn-p .dropdown-menu {
+  background: #000000;
+}
+#dropdown-menu-2btn-p .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-p .dropdown-menu a:hover,
+#dropdown-menu-2btn-p .dropdown-menu a:focus {
+  background: #000000;
+}
+#dropdown-menu-2btn-p .navbar-toggler {
+  color: #ffffff;
 }
