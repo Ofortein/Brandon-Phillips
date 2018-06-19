@@ -32,7 +32,7 @@
         {
           "_styles": {
             ".mbr-header__text": {
-              "color": "#4c6972"
+              "color": "#efefef"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
