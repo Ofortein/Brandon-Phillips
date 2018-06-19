@@ -45,7 +45,7 @@
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "imageSize": "60",
             "paddingTop": 3,
@@ -87,7 +87,7 @@
           },
           "title": "Brandon Phillips<br>Conductor &amp; Bassoonist",
           "meta": "",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
+          "text": "<p>Brandon Phillips started his music career in the New Apostolic church were he learned various instruments, conducting ensembles and choir. </p><p>He is currently the principal bassoonist of the Cape Philharmonic Orchestra. He won  first prize with the Sirocco Wind Quintet Hugenot music Competition 2003. </p><p>Phillips performed as a soloist with the Cape Town Philharmonic Orchestra in January 2005 ( Vivaldi A minor Concerto ), the UCT Symphony Orchestra on the 17th May 2005 ( Weber Concerto ) and the UCT String Ensemble ( a work by South African composer Peter Klatzow dedicated a work to ).</p><p><br></p><p>&nbsp;&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#msg-box5-1\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -147,7 +147,7 @@
           },
           "title": "More About Brandon",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.",
+          "text": "Brandon was the Winner of the woodwind category for the ATKV competition in 2008. He had Materclasses with international renowned bassoonist, David Siedel ( Principle soloist of the Radio Vienna Orchestra, Licolion Washington ( Memphis lecturer and chamber music specialist ), Daniel Matzikawa ( Principle of the Philadelphia Symphony Orchestra ) and Christopher Milard ( Chicago, Northwestern University Lecturer and principle of the Nac Symphony ). Brandon has acted as woodwind coach for the Sasol National youth Orchestra and assisted conducting the Miagi Youth Orchestra, Stellenbosch chamber symphony orchestra. \n<div>\n</div><div><br></div>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -205,9 +205,9 @@
               "loop": false
             }
           },
-          "title": "Adagio with Orchestra",
+          "title": "Conducting the Orchestra",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
+          "text": "<p>He is the winner of the first Len van Zyl Conducting Competition which took place in Cape Town 2009 which granted him an internship with the famous Philadelphia Symphony Orchestra and Master classes with Prof. Victor Yampolski at the Northwestern University. On his return from the States, he received master classes from one of the Greats Arijan Tien from Holland. Brandon has acted as guest conductor for the Cape Philharmonic Orchestra, Johannesburg Symphony, Free State Symphony, Black Tie Ensemble and the Unisa Symphomy Orchestra.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#msg-box5-d\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -265,9 +265,9 @@
               "loop": false
             }
           },
-          "title": "Music a taste of Heaven",
+          "title": "Music a Taste of Heaven",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
+          "text": "<p>He conducted the Youth Music Festival in 2011, one of the most important concerts for our young talented soloist in South Africa. In 2010 he started an intense conducting studio under the Cape Philharmonic outreach program which currently has 14 conducting students. Brandon was recently appointed Artistic Director and Conductor of the Cape Philharmonic Youth Orchestra and received an award from the Minister of Arts and Culture Ivan Meyer for “Outstanding Achievements by the Youth”. Brandon has appeared as one of the 2 Conductors with the Cape Philharmonic Orchestra for the Autumn Symphony Season 2012.&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
