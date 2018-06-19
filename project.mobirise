@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 21,
+    "uniqCompNum": 22,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -501,7 +501,7 @@
             "google": true,
             "twitter": true
           },
-          "text": "",
+          "text": "Social Media Links",
           "_tags": [
             "Theme"
           ],
@@ -509,109 +509,32 @@
           "_anchor": "social-buttons1-e"
         },
         {
-          "_inherit": "gallery1",
+          "_styles": {},
           "_params": {
-            "fullWidth": false,
-            "noGutter": true,
             "showText": false,
-            "showBullets": false,
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/27261-10150154016330556-2051727-n-346x373.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/27261-10150154016330556-2051727-n-346x373-346x373.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/brandon-phillips-1-540x278.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/brandon-phillips-1-540x278-538x276.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/index-1-275x183.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/index-1-275x183-274x183.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/bphil2-246x204.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bphil2-246x204-246x204.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/bphil-267x189.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bphil-267x189-267x189.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/3579.conductors-122mail-300x205.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3579.conductors-122mail-300x205-300x205.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/bphil3-230x220.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bphil3-230x220-230x220.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/brandon-phillips-cpo-resident-conductor-3-300x200.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/brandon-phillips-cpo-resident-conductor-3-300x200-300x200.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/bphil-267x189.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bphil-267x189-267x189.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/bphil3-230x220.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bphil3-230x220-230x220.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/27261-10150154016330556-2051727-n-346x373.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/27261-10150154016330556-2051727-n-346x373-346x373.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ]
+            "bgColor": "#252525"
           },
-          "articleLayout": true,
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bphilmain-1328x448.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery2",
-          "_anchor": "gallery2-j"
+          "_name": "video1",
+          "_anchor": "video1-l"
         }
       ]
     }
