@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Brandon Phillips",
-    "currentPage": "index.html",
+    "name": "Brandon Phillips-clone",
+    "currentPage": "Home.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 23,
+    "uniqCompNum": 25,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -19,7 +19,79 @@
     "siteUrl": "undefined"
   },
   "pages": {
-    "index.html": {
+    "page7.html": {
+      "settings": {
+        "meta_descr": "Web Maker Description",
+        "title": "About",
+        "order": 1
+      },
+      "components": []
+    },
+    "page8.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "Contact Us",
+        "order": 9
+      },
+      "components": []
+    },
+    "Symphonies.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "Symphonies",
+        "order": 3
+      },
+      "components": []
+    },
+    "Oratorios.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "Oratorios",
+        "order": 4
+      },
+      "components": []
+    },
+    "Concertos.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "Concertos ",
+        "order": 5
+      },
+      "components": []
+    },
+    "Overtures.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Overtures",
+        "order": 6
+      },
+      "components": []
+    },
+    "Voice_Orchestra.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Voice and Orchestra",
+        "order": 8
+      },
+      "components": []
+    },
+    "Other_Works.html": {
+      "settings": {
+        "meta_descr": "Web Site Creator Description",
+        "title": "Other Works",
+        "order": 7
+      },
+      "components": []
+    },
+    "Repertoire.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "Repertoire",
+        "order": 2
+      },
+      "components": []
+    },
+    "Home.html": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -278,7 +350,7 @@
         {
           "_inherit": "features1",
           "_params": {
-            "showHeader": false,
+            "showHeader": true,
             "showSubheader": false,
             "showImages": false,
             "showTitles": true,
@@ -304,7 +376,7 @@
             "Theme"
           ],
           "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "header": "<a href=\"Repertoire.html\" class=\"text-black\">REPERTOIRE</a>",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
@@ -325,7 +397,7 @@
           },
           "title1": "Symphonies",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Click to List</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Symphonies.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Click to List</a>",
           "media2": {
             "image": {
               "active": true,
@@ -345,7 +417,7 @@
           },
           "title2": "Oratorios",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Click to List</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Oratorios.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Click to List</a>",
           "media3": {
             "image": {
               "active": true,
@@ -365,7 +437,7 @@
           },
           "title3": "Concertos",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Click to List</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Concertos.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Click to List</a>",
           "media4": {
             "image": {
               "active": true,
@@ -385,7 +457,7 @@
           },
           "title4": "Overtures",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Click to List</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"Overtures.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Click to List</a>",
           "media5": {
             "image": {
               "active": true,
@@ -403,9 +475,9 @@
               "size": 0
             }
           },
-          "title5": "Other works",
+          "title5": "Other Works",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Click to List</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"Other_Works.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Click to List</a>",
           "media6": {
             "image": {
               "active": true,
@@ -425,7 +497,7 @@
           },
           "title6": "Voice &amp; Orchestra",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Click to List</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"Voice_Orchestra.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Click to List</a>",
           "_name": "content4",
           "_anchor": "content4-k"
         },
