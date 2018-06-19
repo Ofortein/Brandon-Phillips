@@ -142,7 +142,7 @@
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": "on",
-              "loop": "on"
+              "loop": false
             }
           },
           "title": "More About Brandon",
