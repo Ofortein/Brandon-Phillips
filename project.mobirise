@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 18,
+    "uniqCompNum": 20,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -88,7 +88,7 @@
           "title": "Brandon Phillips<br>Conductor &amp; Bassoonist",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -180,7 +180,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
+            "bgColor": "#b8312f",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -265,7 +265,7 @@
               "loop": false
             }
           },
-          "title": "Bassoonist",
+          "title": "Music a taste of Heaven",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
@@ -284,13 +284,13 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#b8312f",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
           "title": "CONTACT FORM",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
             "action": "ofortein@gmail.com",
             "alerts": {
@@ -342,7 +342,7 @@
             "google": true,
             "twitter": true
           },
-          "text": "Share this page!",
+          "text": "",
           "_tags": [
             "Theme"
           ],
@@ -350,80 +350,109 @@
           "_anchor": "social-buttons1-e"
         },
         {
+          "_inherit": "gallery1",
           "_params": {
             "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
             "noGutter": true,
             "showText": false,
             "showBullets": true,
-            "bgColor": "#4c6972",
             "images": [
               {
-                "image": "images/slide1.jpg",
-                "thumb": "images/slide1-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/27261-10150154016330556-2051727-n-346x373.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/27261-10150154016330556-2051727-n-346x373-346x373.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/brandon-phillips-1-540x278.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/brandon-phillips-1-540x278-538x276.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/index-1-275x183.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/index-1-275x183-274x183.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
               },
               {
-                "image": "images/slide2.jpg",
-                "thumb": "images/slide2-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bphil2-246x204.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bphil2-246x204-246x204.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "image": "images/slide3.jpg",
-                "thumb": "images/slide3-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bphil-267x189.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bphil-267x189-267x189.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "image": "images/slide4.jpg",
-                "thumb": "images/slide4-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3579.conductors-122mail-300x205.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3579.conductors-122mail-300x205-300x205.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "image": "images/slide5.jpg",
-                "thumb": "images/slide5-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bphil3-230x220.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bphil3-230x220-230x220.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "image": "images/slide6.jpg",
-                "thumb": "images/slide6-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/brandon-phillips-cpo-resident-conductor-3-300x200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/brandon-phillips-cpo-resident-conductor-3-300x200-300x200.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "image": "images/slide7.jpg",
-                "thumb": "images/slide7-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bphil-267x189.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bphil-267x189-267x189.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "image": "images/slide8.jpg",
-                "thumb": "images/slide8-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bphil3-230x220.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bphil3-230x220-230x220.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/27261-10150154016330556-2051727-n-346x373.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/27261-10150154016330556-2051727-n-346x373-346x373.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
-          "articleLayout": false,
+          "articleLayout": true,
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-g"
+          "_name": "gallery2",
+          "_anchor": "gallery2-j"
         }
       ]
     }
