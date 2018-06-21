@@ -25,6 +25,9 @@
 #msg-box5-1 .mbr-article {
   color: #ffffff;
 }
+#msg-box5-1 .mbr-article P {
+  text-align: left;
+}
 #msg-box5-2 .mbr-header__text {
   color: #ffffff;
 }
